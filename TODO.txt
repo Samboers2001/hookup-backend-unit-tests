@@ -1,0 +1,1 @@
+methods register and authenticate still need to be tested. 
